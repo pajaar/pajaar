@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, I'm pajaar 👋
 
-<!--
-**pajaar/pajaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👤 About Me
+* 🤷‍ 17 y.o
+* 🏠 Live at Klaten, Jawa Tengah
 
-Here are some ideas to get you started:
+### 📚 Languages
+* ('-')?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 Contacts
+* [**Facebook**](https://www.facebook.com/pajaar.haxor)
+* [**Instagram**](https://www.instagram.com/pajaar1337)
+* [**Telegram**](https://t.me/pjr.666)
+* [**Email**](mailto:pjr@hax.or.id)
