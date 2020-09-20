@@ -9,8 +9,8 @@ ___
 ___
 ### 📬 Contacts
 * [**Facebook**](https://www.facebook.com/pajaar.haxor)
-* [**Instagram**](https://www.instagram.com/pajaar1337)
-* [**Telegram**](https://t.me/pjr.666)
+* [**Instagram**](https://www.instagram.com/pajaarx)
+* [**Telegram**](https://t.me/pjr666)
 * [**Email**](mailto:pjr@hax.or.id)
 ___
 ## **Stats**
