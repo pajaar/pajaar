@@ -15,4 +15,6 @@ ___
 ___
 ## **Stats**
 ![pajaar github stats](https://github-readme-stats.vercel.app/api?username=pajaar&show_icons=true&title_color=000&icon_color=79ff97&text_color=000)
-
+___
+## **<3**
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pajaar&repo=KlatenSec-shell)](https://github.com/pajaar/klatensec-shell)
